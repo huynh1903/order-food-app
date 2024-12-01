@@ -1,23 +1,23 @@
 // all images imported from images directory
-import product_01 from './images/product_01.jpg';
-import product_02 from './images/product_02.jpg';
-import product_03 from './images/product_03.jpg';
-import product_04 from './images/product_04.jpg';
-import product_05 from './images/product_05.jpg';
-import product_06 from './images/product_06.jpg';
-import product_07 from './images/product_07.jpg';
-import product_08 from './images/product_08.jpg';
-import product_09 from './images/product_09.jpg';
-import product_10 from './images/product_10.jpg';
-import product_11 from './images/product_11.png';
-import product_12 from './images/product_12.png';
-import product_13 from './images/product_13.png';
+import product_01 from '/images/product_01.jpg';
+import product_02 from '/images/product_02.jpg';
+import product_03 from '/images/product_03.jpg';
+import product_04 from '/images/product_04.jpg';
+import product_05 from '/images/product_05.jpg';
+import product_06 from '/images/product_06.jpg';
+import product_07 from '/images/product_07.jpg';
+import product_08 from '/images/product_08.jpg';
+import product_09 from '/images/product_09.jpg';
+import product_10 from '/images/product_10.jpg';
+import product_11 from '/images/product_11.png';
+import product_12 from '/images/product_12.png';
+import product_13 from '/images/product_13.png';
 
 //avatar
-import ava1 from './images/ava-1.jpg';
-import ava2 from './images/ava-2.jpg';
-import ava3 from './images/ava-3.jpg';
-import ava4 from './images/ava-4.jpg';
+import ava1 from '/images/ava-1.jpg';
+import ava2 from '/images/ava-2.jpg';
+import ava3 from '/images/ava-3.jpg';
+import ava4 from '/images/ava-4.jpg';
 
 export const products = [
    {

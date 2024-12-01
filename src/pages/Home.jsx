@@ -5,15 +5,15 @@ import { FaRegCircleCheck } from "react-icons/fa6";
 import { CiLocationOn } from "react-icons/ci";
 import title from "../utils/title";
 import { Link } from "react-router-dom";
-import heroImage from "../assets/images/hero.png";
-import quickImg from "../assets/images/quick.png";
-import deinImg from "../assets/images/dein.png";
-import pickupImg from "../assets/images/pickup.png";
-import breadIcon from "../assets/images/icon-bread.png";
-import pizzaIcon from "../assets/images/icon-pizza.png";
-import burgerIcon from "../assets/images/icon-burger.png";
-import networkImg from '../assets/images/network.png';
-import locationImg from '../assets/images/location.png'
+import heroImage from "/images/hero.png";
+import quickImg from "/images/quick.png";
+import deinImg from "/images/dein.png";
+import pickupImg from "/images/pickup.png";
+import breadIcon from "/images/icon-bread.png";
+import pizzaIcon from "/images/icon-pizza.png";
+import burgerIcon from "/images/icon-burger.png";
+import networkImg from '/images/network.png';
+import locationImg from '/images/location.png'
 import { products, feedbacks } from "../assets/data";
 import Card from "../components/UI/Card";
 import { useState } from "react";
